@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://khizer123:khizer123@devconnector.zik8b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://khizer123:khizer123@devconnector.zik8b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "myNameIsKhizerKamalIAmComputerScientist"
 }
